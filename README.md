@@ -43,3 +43,28 @@ The original copy of this website is hosted by Neocities.
             and a paintbrush on the other hand, showing that Neocities is both a technological
             and an artistic community."/>
 </a>
+
+# IPFS Mirrors
+
+DMCA takedown? Good luck.
+
+IMPORTANT: While IPFS resources are technically impossible to censor, but all files need
+seeders to survive. If you are running a IPFS node, please run the following command to
+seed this website.
+
+    $ ipfs pin add -r bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i
+
+Thanks.
+
+---
+Here's a list of IPFS gateways for accessing the IPFS backup of this website.
+
+1. https://ipfs.io/ipfs/bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i
+
+2. https://cloudflare-ipfs.com/ipfs/bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i
+
+3. https://ninetailed.ninja/ipfs/bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i
+
+4. https://ipfs.sloppyta.co/ipfs/bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i/
+
+5. https://bafybeig2vahmuslys6pdnipyp6x4l52uybypwpahf2dhzk3y52stnbdy2i.cosmos-ink.net/
