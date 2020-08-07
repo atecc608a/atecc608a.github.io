@@ -25,7 +25,7 @@ completely replaced by the undocumented ATECC608A soon.
 
 #### We need to fix this problem.
 ### Therefore, we hereby present:
-## [ATECC608A Full Datasheet (118 pages).](ATECC608A.pdf)
+## [ATECC608A Full Datasheet (118 pages).](https://atecc608a.neocities.org/ATECC608A.pdf)
 
 <img src="nda.png" width="250"
      alt="Microchip Confidential, for release only under Non-Disclosure Agreement."/>
