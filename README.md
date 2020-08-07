@@ -1,5 +1,7 @@
 # [atecc608a.github.io](https://atecc608a.github.io/)
 
+## ATECC608A Full (Complete) Datasheet Download
+
 <img src="openhardware-logo.png" width="80" 
      alt="Open Hardware Logo - a QFP chip, with a unlocked padlock icon printed on the chip." />
 
@@ -22,12 +24,22 @@ which means ATECC508A will eventually be discontinued and
 completely replaced by the undocumented ATECC608A soon.
 
 #### We need to fix this problem.
-
-#### Therefore, we hereby present:
-### [ATECC608A Full Datasheet (118 pages).](ATECC608A.pdf)
+### Therefore, we hereby present:
+## [ATECC608A Full Datasheet (118 pages).](ATECC608A.pdf)
 
 <img src="nda.png" width="250"
      alt="Microchip Confidential, for release only under Non-Disclosure Agreement."/>
 
 I've signed an NDA, so you don't have to.
+
 Happy hacking, and have a nice day. 
+
+---
+The original copy of this website is hosted by Neocities.
+
+<a href="https://atecc608a.neocities.org/">
+  <img src="neocities.png"
+       alt="Hosted by Neocities, with a cat logo. The cat is holding a wrench on one hand
+            and a paintbrush on the other hand, showing that Neocities is both a technological
+            and an artistic community."/>
+</a>
